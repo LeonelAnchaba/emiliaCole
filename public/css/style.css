@@ -2,5 +2,13 @@
 @import "./contact.css";
 @import "./general.css";
 @import "./header.css";
-@import "./home.css";
+@import "./index.css";
 @import "./music.css";
+
+/*es mejor traer nuestra fuente a este 
+archivo en lugar de poner el link en cada meta de cada archivo html*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Raleway&family=Unna:ital@1&display=swap');
+
+

@@ -1,0 +1,10 @@
+.music__body {
+    background-image: url("/img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -3%;
+}
+
+/*Como en la configuacion general saque las viñetas, 
+se me borran los numeros de la lista.
+Ademas, me falta el simbolito de play */
