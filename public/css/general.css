@@ -1,0 +1,25 @@
+
+/*para setear variables:*/
+:root {
+    --color-gris: #85ada8;
+    --color-negro: #000000;
+    --color-verde: #389F8C;
+    --color-backgroung: #ffffff;
+}
+
+/*General*/
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style:none;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    font-size: 14px;
+}
+
+
+a {
+    color: black
+}

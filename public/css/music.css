@@ -1,0 +1,11 @@
+.music__body {
+    background-image: url("/img/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: -3%;
+}
+
+
+#album ol li {
+    margin-left: -3%
+}

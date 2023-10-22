@@ -1,0 +1,31 @@
+.about__body {
+    background-image: url("/img/emilia-about.jpg");
+    background-size: 75% ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y:0px ;
+}
+
+#top {
+    text-align: right;
+    padding-top: 2%;
+}
+
+h1 {
+    padding-top:17px;
+    font-size: 73px;
+    letter-spacing: 2px;
+}
+
+.about__green h3{
+    padding-left:3%;
+    color:#4D9C87;
+    letter-spacing: -1px;
+}
+.about__green h6{
+    padding-left:3%;
+    color:#3C6B5B
+}
+
+
+
